@@ -1,0 +1,19 @@
+h1. Category Drop
+
+Category Drop is an ExpressionEngine Extension that changes the category multi-select into a single-select drop down in the Publish and Edit entry forms.
+
+h2. Compatibility
+
+* ExpressionEngine 1.6.x
+
+h2. Installation & Setup
+
+* Copy <code>extensions/ext.category_drop.php</code> to your <code>system/extensions</code> directory
+* Copy <code>language/lang.category_drop.php</code> to your <code>system/language/english</code> directory
+* Select the weblogs you'd like to alter in the Extension Settings
+
+h2. Change Log
+
++*Apr 20 2010, 1.0.0*+
+
+* Initial Release
